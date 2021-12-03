@@ -29,7 +29,7 @@ function formWrap(form) {
 
 
 //FETCH - Request(example)
-fetch("https://jsonplaceholder.typicode.com/posts",
+fetch("http://localhost:3000/requests",
 
     {
         method: "POST",
