@@ -1,0 +1,22 @@
+{
+  "name": "forms-to-server",
+  "version": "1.0.0",
+  "description": "[demo](https://skirnevskyialeksandr.github.io/forms-to-server/)",
+  "main": "javaScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkirnevskyiAleksandr/forms-to-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkirnevskyiAleksandr/forms-to-server/issues"
+  },
+  "homepage": "https://github.com/SkirnevskyiAleksandr/forms-to-server#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
